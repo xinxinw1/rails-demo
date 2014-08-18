@@ -39,3 +39,6 @@ gem 'unicorn'
 # gem 'debugger', group: [:development, :test]
 
 gem 'rails_12factor', group: :production
+
+gem 'rspec-rails', group: [:development, :test]
+gem 'capybara', group: :test
